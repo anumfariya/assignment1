@@ -1,0 +1,6 @@
+// for initialisation
+git init 
+//for push to remote directory 
+git push -u origin master
+//for state after commit
+git status
